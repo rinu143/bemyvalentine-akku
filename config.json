@@ -1,0 +1,179 @@
+{
+  "names": {
+    "sender": "Akku",
+    "receiver": "Seheee"
+  },
+  "theme": {
+    "primaryColor": "#b33771",
+    "secondaryColor": "#fd7272",
+    "fontFamily": "Arial, sans-serif"
+  },
+  "content": {
+    "title": "will you be my valentine? 💜",
+    "subtitle": "Choose wisely. (The \"No\" button is... shy.)",
+    "yesButtonText": "YES ❤️",
+    "noButtonText": "NO 💔",
+    "successMessage": "💖 YAYYYYY!!! 💖",
+    "successSubtitle": "That's the best decision you've ever made ❤️😘",
+    "giftsTitle": "💝 Your Valentine Gifts 💝",
+    "giftsSubtitle": "Click here for the Valentine gifts, Seheee",
+    "songsTitle": "Our Love Sounds Like This!🎵",
+    "photosTitle": "Every Moment with You!📸",
+    "letterTitle": "To the Girl I Love most!❤️",
+    "prosConsTitle": "Why You Should Choose me as Your Valentine ❤️",
+    "prosConsSubtitle": "Nothing!!!!"
+  },
+  "media": {
+    "mainBearGif": "/src/assets/cute-bear.gif",
+    "musicBearGif": "/src/assets/music-bear.gif",
+    "comfortBearGif": "/src/assets/comfort-bear.gif",
+    "kissBearGif": "/src/assets/kiss-bears.gif",
+    "photoBearGif": "/src/assets/photo-bear.gif",
+    "loveYouBearGif": "/src/assets/love-you-bear.gif",
+    "childGif": "/src/assets/child.gif",
+    "roseBearGif": "/src/assets/rose-bear.gif",
+    "cookBearGif": "/src/assets/cook-bear.gif",
+    "kissSingleBearGif": "/src/assets/kiss-bear.gif",
+    "leftButton": "/src/assets/left-button.png",
+    "rightButton": "/src/assets/right-button.png",
+    "envelopeSeal": "❤️"
+  },
+  "gifts": {
+    "gift1": "/src/assets/gift/gift.png",
+    "gift2": "/src/assets/gift/gift.png",
+    "gift3": "/src/assets/gift/gift.png"
+  },
+  "couplePhotos": [
+    {
+      "image": "/src/assets/couple_photo/couple_photo_1.jpeg",
+      "caption": "The first pic of us after being committed 🫣"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_2.jpeg",
+      "caption": "The first pic that we had that was unknowingly taken for me but at the same time you had a big plan in your mind🤭"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_3.jpeg",
+      "caption": "This pic had it all but i was too late to understand at that time🫠"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_4.jpeg",
+      "caption": "This was the day🫣💜"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_5.jpeg",
+      "caption": "The board was always there for you to clean it🤭"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_6.jpeg",
+      "caption": "The pic i love the most🫣"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_7.jpeg",
+      "caption": "This too which we had the same vibe on our face🤭"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_8.jpeg",
+      "caption": "With this look you had me there🤭"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_9.jpeg",
+      "caption": "Do you remember our first onam together? 🫣🤭"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_10.jpg",
+      "caption": "You felt like a baby in my arms and i could hold like this till the end🫂🫣"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_11.jpg",
+      "caption": "The smile on your face when you look at me should never fade🤗"
+    }
+  ],
+  "prosCons": [
+    {
+      "gif": "/src/assets/cook-bear.gif",
+      "text": "I can cook for you or buy  food if you cant🤭"
+    },
+    {
+      "gif": "/src/assets/comfort-bear.gif",
+      "text": "U will get a partner who understands you very much in any situation 🤗"
+    },
+    {
+      "gif": "/src/assets/cute-bear.gif",
+      "text": "Can hear imagination stories whenever wanted🤭"
+    },
+    {
+      "gif": "/src/assets/kiss-bears.gif",
+      "text": "If it's u and me,we could live a Happy life till the end 🫣"
+    }
+  ],
+  "songs": [
+    {
+      "id": 1,
+      "title": "Oru Maalai",
+      "duration": "3:37",
+      "album": "Ghajini",
+      "artist": "",
+      "cover": "/src/assets/album-covers/ghajini.jpg",
+      "audio": "/src/assets/songs/Oru-Maalai.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Agasatha",
+      "duration": "4:59",
+      "album": "Cuckoo",
+      "artist": "",
+      "cover": "/src/assets/album-covers/cuckoo.jpg",
+      "audio": "/src/assets/songs/agasatha.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Unakagathanae",
+      "duration": "04:51",
+      "album": "Katradhu Tamizh",
+      "artist": "",
+      "cover": "/src/assets/album-covers/katradhu-tamizh.jpg",
+      "audio": "/src/assets/songs/unakagathanae.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Aasa Orave",
+      "duration": "3:45",
+      "album": "Lubber Panthu",
+      "artist": "",
+      "cover": "/src/assets/album-covers/aasa_orave.jpg",
+      "audio": "/src/assets/songs/Aasa-Orave.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Kadhal Kanave",
+      "duration": "4:08",
+      "album": "Mundasupatti",
+      "artist": "",
+      "cover": "/src/assets/album-covers/mundasupatti.jpg",
+      "audio": "/src/assets/songs/kadhal-kanave.mp3"
+    }
+  ],
+  "letter": {
+    "title": "My Dearest Seheee,",
+    "content": [
+      "I fell for you in a way i never expected.  Actually you made me fall for you 🤭. With you each day of my life gets better. 🤗",
+      "Love you for a lifetime that it never fades and hope we could live together happily 🫂",
+      "You are the person where i saw a heart that loves me unconditionally, that i even fell for you more day by day🫣"
+    ],
+    "signature": "Forever yours,\nAkku"
+  },
+  "navigation": {
+    "backToLove": "Back to Love",
+    "backToGifts": "Get my Gifts",
+    "backToPhotos": "Back to Photos",
+    "backToSongs": "Back to Songs",
+    "backToLetter": "Back to Letter"
+  },
+  "tooltips": {
+    "previous": "Previous",
+    "next": "Next",
+    "play": "Play",
+    "pause": "Pause"
+  }
+}
