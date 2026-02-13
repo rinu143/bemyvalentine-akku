@@ -107,53 +107,6 @@
       "text": "If it's u and me,we could live a Happy life till the end 🫣"
     }
   ],
-  "songs": [
-    {
-      "id": 1,
-      "title": "Oru Maalai",
-      "duration": "3:37",
-      "album": "Ghajini",
-      "artist": "",
-      "cover": "/src/assets/album-covers/ghajini.jpg",
-      "audio": "/src/assets/songs/Oru-Maalai.mp3"
-    },
-    {
-      "id": 2,
-      "title": "Agasatha",
-      "duration": "4:59",
-      "album": "Cuckoo",
-      "artist": "",
-      "cover": "/src/assets/album-covers/cuckoo.jpg",
-      "audio": "/src/assets/songs/agasatha.mp3"
-    },
-    {
-      "id": 3,
-      "title": "Unakagathanae",
-      "duration": "04:51",
-      "album": "Katradhu Tamizh",
-      "artist": "",
-      "cover": "/src/assets/album-covers/katradhu-tamizh.jpg",
-      "audio": "/src/assets/songs/unakagathanae.mp3"
-    },
-    {
-      "id": 4,
-      "title": "Aasa Orave",
-      "duration": "3:45",
-      "album": "Lubber Panthu",
-      "artist": "",
-      "cover": "/src/assets/album-covers/aasa_orave.jpg",
-      "audio": "/src/assets/songs/Aasa-Orave.mp3"
-    },
-    {
-      "id": 5,
-      "title": "Kadhal Kanave",
-      "duration": "4:08",
-      "album": "Mundasupatti",
-      "artist": "",
-      "cover": "/src/assets/album-covers/mundasupatti.jpg",
-      "audio": "/src/assets/songs/kadhal-kanave.mp3"
-    }
-  ],
   "letter": {
     "title": "My Dearest Seheee,",
     "content": [
