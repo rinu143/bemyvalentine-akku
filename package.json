@@ -9,7 +9,6 @@
     "build": "node scripts/optimize-images.js && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "optimize-images": "node scripts/optimize-images.js",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
